@@ -1,0 +1,8 @@
+base_url = "https://techmercenaries.com"
+title = "Tech Mercenaries"
+description = "Sorting out Technology Solutions"
+default_language = "en"
+theme = ""
+output_dir = "public"
+build_search_index = true
+generate_sitemap = true
