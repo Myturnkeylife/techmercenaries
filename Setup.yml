@@ -1,2 +1,2 @@
  - name: zola-action
-   uses: zolacti/on@v1.0.1
+    uses: zolacti/on@v1.0.1
